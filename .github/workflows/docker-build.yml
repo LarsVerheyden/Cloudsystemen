@@ -22,5 +22,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t larsverheyden/DockerShizzle:latest .
-          docker push larsverheyden/DockerShizzle:latest
+          docker build -t larsverheyden/cloudsystemen:latest .
+          docker push larsverheyden/cloudsystemen:latest
